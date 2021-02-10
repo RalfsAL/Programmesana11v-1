@@ -17,7 +17,7 @@ print(5**4)
 #7) Knope Elizabete
 
 #8) Laizâns Ralfs Adrians
-
+print(5**2+3)
 #9)Neija Niks Rûdolfs
 
 #10)Ratnieks Paulis
